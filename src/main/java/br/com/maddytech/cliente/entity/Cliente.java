@@ -3,9 +3,6 @@ package br.com.maddytech.cliente.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-
 @Getter
 @Setter
 @AllArgsConstructor
@@ -23,11 +20,4 @@ public class Cliente {
 
     @Column(name = "email")
     private String email;
-
-    @Column(name = "cpf")
-    private String cpf;
-
-    @Column(name = "nascimento")
-    private LocalDate birthDate;
-
 }
