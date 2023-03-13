@@ -1,4 +1,4 @@
-package br.com.maddytech.cliente.http.controller;
+package br.com.maddytech.cliente.controller;
 
 import br.com.maddytech.cliente.entity.Cliente;
 import br.com.maddytech.cliente.service.ClienteService;
