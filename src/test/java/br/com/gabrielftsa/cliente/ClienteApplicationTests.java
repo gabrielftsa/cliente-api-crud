@@ -1,4 +1,4 @@
-package br.com.maddytech.cliente;
+package br.com.gabrielftsa.cliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

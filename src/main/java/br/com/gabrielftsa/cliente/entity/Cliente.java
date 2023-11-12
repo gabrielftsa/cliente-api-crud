@@ -1,4 +1,4 @@
-package br.com.maddytech.cliente.entity;
+package br.com.gabrielftsa.cliente.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,6 +1,6 @@
-package br.com.maddytech.cliente.repository;
+package br.com.gabrielftsa.cliente.repository;
 
-import br.com.maddytech.cliente.entity.Cliente;
+import br.com.gabrielftsa.cliente.entity.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

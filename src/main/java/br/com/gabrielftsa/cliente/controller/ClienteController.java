@@ -1,7 +1,7 @@
-package br.com.maddytech.cliente.controller;
+package br.com.gabrielftsa.cliente.controller;
 
-import br.com.maddytech.cliente.entity.Cliente;
-import br.com.maddytech.cliente.service.ClienteService;
+import br.com.gabrielftsa.cliente.entity.Cliente;
+import br.com.gabrielftsa.cliente.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

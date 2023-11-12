@@ -1,7 +1,7 @@
-package br.com.maddytech.cliente.service;
+package br.com.gabrielftsa.cliente.service;
 
-import br.com.maddytech.cliente.entity.Cliente;
-import br.com.maddytech.cliente.repository.ClienteRepository;
+import br.com.gabrielftsa.cliente.entity.Cliente;
+import br.com.gabrielftsa.cliente.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
